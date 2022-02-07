@@ -1,0 +1,4 @@
+software modelling and devops 
+pe-1  design patterns and clean coding techniques
+pe-2 ux design
+flexi course- cloud infrastructure and service
